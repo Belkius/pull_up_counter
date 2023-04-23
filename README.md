@@ -2,7 +2,7 @@
 
 This is a simple application that uses TensorFlow's [MoveNet](https://blog.tensorflow.org/2021/05/next-generation-pose-detection-with-movenet-and-tensorflowjs.html) model to count repetitions of pull-up exercises in real-time using a webcam.
 
-## [Demo available here] (https://belkius.com/repcounter) 
+## [Demo available here](https://belkius.com/repcounter) 
 
 ## Installation
 To use this application locally, you need to install the required packages. This application uses React, @tensorflow-models/pose-detection, and @tensorflow/tfjs-core. Run the following command to install the packages: `npm install`
